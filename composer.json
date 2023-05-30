@@ -1,0 +1,16 @@
+{
+    "name": "maicol.almarales.tamayo/autenticacion",
+    "description": "paque de autenticación",
+    "autoload": {
+        "psr-4": {
+            "MaicolAlmaralesTamayo\\Autenticacion\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maicol Almarales Tamayo",
+            "email": "maicol.almarales.tamayo@gmail.com"
+        }
+    ],
+    "require": {}
+}
